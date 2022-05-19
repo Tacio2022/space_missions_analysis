@@ -6,6 +6,7 @@ The main goal of this project is analyze how the "space race" scenario changed o
 
 ## Requirements:
 
+- Jupyter Notebook
 - Python 3.9
 - Pandas
 - Numpy
@@ -15,3 +16,4 @@ The main goal of this project is analyze how the "space race" scenario changed o
 - Plotly
 - Panel
 - HVplot.pandas
+
